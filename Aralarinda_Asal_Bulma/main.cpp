@@ -13,6 +13,8 @@ int main()
     cout << "Sayi 2 giriniz: ";
     cin >> sayi2; // 15s
 
+    // int minsayi = (sayi1 < sayi2) ? sayi1 : sayi2; // 2 sayıyı da karşılaştırır ve küçük olanı minsayi'ya atar.
+
     if(sayi1 < sayi2){
         for(int i = 1; i <= sayi1; i++){
             if(sayi1 % i == 0 && sayi2 % i == 0){
