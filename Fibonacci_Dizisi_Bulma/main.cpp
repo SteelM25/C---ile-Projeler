@@ -3,7 +3,7 @@ using namespace std;
 
 //Fibonacci dizisi, bir sonraki terimin önceki iki terimin toplamı olduğu bir seridir. Fibonacci dizisinin ilk iki terimi 0 ve 1'dir. Örneğin: 0, 1, 1, 2, 3, 5, 8, 13, 21, ....
 
-//Bu tanıma uygun olarak fibonacci dizisinin kullanıcının istediği lik n elemanını bulup ekrana yazan kodu yazınız.
+//Bu tanıma uygun olarak fibonacci dizisinin kullanıcının istediği ilk n elemanını bulup ekrana yazan kodu yazınız.
 
 //Örneğin:
     // Fibonacci dizisinin ilk kaç elemanı yazılsın? : 9
