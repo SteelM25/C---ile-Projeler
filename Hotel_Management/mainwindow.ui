@@ -60,6 +60,11 @@
          <verstretch>0</verstretch>
         </sizepolicy>
        </property>
+       <property name="font">
+        <font>
+         <pointsize>15</pointsize>
+        </font>
+       </property>
        <property name="toolTip">
         <string/>
        </property>
@@ -100,6 +105,11 @@ QPushButton:hover {
          <verstretch>0</verstretch>
         </sizepolicy>
        </property>
+       <property name="font">
+        <font>
+         <pointsize>15</pointsize>
+        </font>
+       </property>
        <property name="styleSheet">
         <string notr="true">QPushButton {
     background-color: transparent;
@@ -127,6 +137,11 @@ QPushButton:hover {
          <horstretch>0</horstretch>
          <verstretch>0</verstretch>
         </sizepolicy>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>15</pointsize>
+        </font>
        </property>
        <property name="styleSheet">
         <string notr="true">QPushButton {
