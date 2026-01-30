@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>829</width>
-    <height>502</height>
+    <width>820</width>
+    <height>501</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -69,7 +69,7 @@
        <property name="styleSheet">
         <string notr="true">QPushButton {
     background-color: transparent;
-    color: #2563EB;
+    color: green;
     border: 2px solid green;
     border-radius: 6px;
     padding: 6px 14px;
@@ -103,7 +103,7 @@ QPushButton:hover {
        <property name="styleSheet">
         <string notr="true">QPushButton {
     background-color: transparent;
-    color: #2563EB;
+    color: red;
     border: 2px solid red;
     border-radius: 6px;
     padding: 6px 14px;
@@ -156,7 +156,7 @@ QPushButton:hover {
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>829</width>
+     <width>820</width>
      <height>23</height>
     </rect>
    </property>
