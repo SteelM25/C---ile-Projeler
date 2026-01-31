@@ -20,6 +20,8 @@ private slots:
 
     void on_pushButtonCancel_clicked();
 
+    void colorRoomButton(int roomNo, QPushButton* button);
+
 private:
     Ui::RoomsDialog *ui;
 };

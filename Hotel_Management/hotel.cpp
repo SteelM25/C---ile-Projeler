@@ -10,6 +10,7 @@ Hotel::Hotel() {
     rooms.push_back(r1); //oluşturulan nesneyi vectore ekledik.
 
     Room r2(2, 250);
+    r2.checkIn("Ahmed");
     rooms.push_back(r2);
 
     //2.yol.(Daha performanslıdır, push back veriyi kopyalar sonra vektöre ekler, emplace_back ise nesneyi direkt vektör içinde oluşturur.)
